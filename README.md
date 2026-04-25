@@ -1,4 +1,3 @@
-<!--
 # Petr Vala
 **Platform & Infrastructure Engineer — Amsterdam**
 
@@ -17,4 +16,3 @@ IAM & access architecture · systems integration · platform reliability · clou
 ---
 
 *The repos here are mostly Go learning projects. My actual work lives in private infrastructure repos — happy to talk through it if the context is right.*
--->
