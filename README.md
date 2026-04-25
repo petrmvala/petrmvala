@@ -1,16 +1,20 @@
-## Hi there 👋
-
 <!--
-**petrmvala/petrmvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Petr Vala
+**Platform & Infrastructure Engineer — Amsterdam**
 
-Here are some ideas to get you started:
+Senior infrastructure engineer focused on cloud-native platform design — the kind of systems that stay boring in production. I work across GCP and AWS, building and operating Kubernetes platforms, Terraform infrastructure, and GitOps pipelines that other engineers can use without thinking too hard about the plumbing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently consulting for a UK-based software company (160 people, two-person infra team). Emphasis on near-zero incidents by design: managed services, lean architecture, heavy automation.
+
+---
+
+**Stack**  
+`Kubernetes` `FluxCD` `GCP` `AWS` `Terraform` `GitOps` `Go` `Python` `Bash`
+
+**Focus areas**  
+IAM & access architecture · systems integration · platform reliability · cloud cost efficiency · low-maintenance design
+
+---
+
+*The repos here are mostly Go learning projects. My actual work lives in private infrastructure repos — happy to talk through it if the context is right.*
 -->
